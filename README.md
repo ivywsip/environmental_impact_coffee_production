@@ -3,7 +3,7 @@
 
 ## Data Exploration: Coffee Production Environmental Impact
 **Tableau publish:**<br/>
-https://public.tableau.com/profile/ivy.ip#!/vizhome/TableauProject-CoffeeProduction/Forest
+(https://public.tableau.com/profile/ivy.ip#!/vizhome/TableauProject-CoffeeProduction/Story)
 
 
 ## Overview
